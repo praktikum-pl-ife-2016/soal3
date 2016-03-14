@@ -1,4 +1,4 @@
-package cetakan;
+
 
 import static cetakan.Cetakan.counter;
 
