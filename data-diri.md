@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama	: Rizal Fahtur Rizqi
+NIM	: 1551550201111081
+Kelas	: IF-E
