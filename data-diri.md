@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :   Rizqi Fauzi 
+NIM :  155150200111056
+Kelas : TIF-E
