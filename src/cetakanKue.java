@@ -1,7 +1,5 @@
 
 
-import static cetakan.Cetakan.counter;
-
 public class cetakanKue {
 
     public static void main(String[] args) {// method main yang digunakan untuk memanggil method maupun constructor pada class Cetakan
