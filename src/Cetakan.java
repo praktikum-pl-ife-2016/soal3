@@ -1,4 +1,4 @@
-public class Cetakan {
+public class Cetakan{
     String jenis;
     int jumlah;
     static int total;
