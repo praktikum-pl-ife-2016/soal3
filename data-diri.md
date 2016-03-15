@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama : riska andriani
+NIM : 155150201111080
+Kelas : IF - E
