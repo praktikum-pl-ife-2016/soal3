@@ -1,5 +1,3 @@
-package cetakan;
-
 public class Cetakan {
 
     private String jenisKue;
