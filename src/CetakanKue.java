@@ -1,5 +1,3 @@
-package cetakan;
-
 public class CetakanKue {
     public static void main(String[] args) {
         Cetakan kue = new Cetakan();
